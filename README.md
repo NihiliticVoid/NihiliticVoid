@@ -44,7 +44,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihiliticvoid/nihiliticvoid/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihiliticvoid/nihiliticvoid/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nihiliticvoid/nihiliticvoid/output/github-snake.svg" />
+  <a href="https://www.linkedin.com/in/luanlmarinho/"> <img alt="github-snake" src="https://raw.githubusercontent.com/nihiliticvoid/nihiliticvoid/output/github-snake.svg" /> /a>
 </picture>
 
 ###
