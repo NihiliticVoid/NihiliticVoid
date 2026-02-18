@@ -1,4 +1,7 @@
-<h2 align="left">Hi there! 👋 I’m Luan, a Computer Science student at University Veiga de Almeida in Brazil with a passion for software development and data analysis. I specialize in Python, Java, and web development, and I’m currently exploring machine learning and AI. My projects range from personal portfolio websites to data-driven applications and game prototypes. I’m always eager to learn, collaborate, and contribute to innovative solutions. When I’m not coding, I enjoy gaming and tinkering with new tech. Check out my repositories, and let’s connect!</h2>
+<h2 align="left">Hi there! 👋 I’m Luan, a Computer Science graduate from Universidade Veiga de Almeida (Brazil) with a strong passion for software development and data analysis. I primarily work with Python, Java, and Web Development, and I continue to deepen my expertise in Machine Learning and Artificial Intelligence.
+My projects range from personal portfolio websites to data-driven applications and game prototypes, always focusing on practical problem-solving, clean architecture, and continuous learning. I’m motivated to collaborate on innovative solutions and contribute to impactful technological projects.
+Outside of coding, I enjoy gaming and exploring emerging technologies, constantly experimenting with new tools and ideas.
+Feel free to explore my repositories — and let’s connect!</h2>
 
 ###
 
