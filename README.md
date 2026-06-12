@@ -1,7 +1,4 @@
-<h2 align="left">Hi there! 👋 I’m Luan, a Computer Science graduate from Universidade Veiga de Almeida (Brazil) with a strong passion for software development and data analysis. I primarily work with Python, Java, and Web Development, and I continue to deepen my expertise in Machine Learning and Artificial Intelligence.
-My projects range from personal portfolio websites to data-driven applications and game prototypes, always focusing on practical problem-solving, clean architecture, and continuous learning. I’m motivated to collaborate on innovative solutions and contribute to impactful technological projects.
-Outside of coding, I enjoy gaming and exploring emerging technologies, constantly experimenting with new tools and ideas.
-Feel free to explore my repositories — and let’s connect!</h2>
+<h2 align="left">Hi! I’m Luan, a Computer Science graduate and Data Scientist specializing in Generative AI and scalable services. I leverage Python, Java, and modern web development to build everything from multi-agent AI systems to data-driven applications. Passionate about clean architecture and practical problem-solving, I'm always exploring emerging tech and gaming.</h2>
 
 ###
 
