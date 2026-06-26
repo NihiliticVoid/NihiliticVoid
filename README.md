@@ -1,5 +1,5 @@
 # About Me:
-Hi! I’m Luan, a Computer Science graduate and Data Scientist specializing in Generative AI and scalable services. I leverage Python, Java, and modern web development to build everything from multi-agent AI systems to data-driven applications. Passionate about clean architecture and practical problem-solving, I'm always exploring emerging tech and gaming.
+Hi! I’m Luan, a Computer Science graduate and Data Scientist specializing in Generative AI and scalable services. I leverage Python, Typescript, and modern web development to build everything from multi-agent AI systems to data-driven applications. Passionate about clean architecture and practical problem-solving, I'm always exploring emerging tech and gaming.
 
 
 ## Socials:
